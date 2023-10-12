@@ -6,3 +6,4 @@ Testando....
 
 Adicionando mais uma modificação
 Adicionada uma nova branch no projeto
+Adicionada uma nova funcionalidade
